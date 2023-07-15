@@ -26,7 +26,7 @@ To install the Prayag theme, follow these steps:
 4. Once the theme is uploaded, click "Publish theme" to make it live on your store.
 
 ## Theme Support
-We strive to provide excellent support to our valued customers. If you encounter any issues or have questions about the Prayag Multipurpose Shopify Theme, please reach out to our support team at support@prayagtheme.com. We will be happy to assist you.
+We strive to provide excellent support to our valued customers. If you encounter any issues or have questions about the Prayag Multipurpose Shopify Theme, please reach out to me at prayag.patoliya@96@gmail.com. We will be happy to assist you.
 
 ## Documentation and Resources
 For more detailed information about setting up and customizing the Prayag theme, please refer to the comprehensive documentation included in the theme package. Additionally, you can visit our website at www.prayagtheme.com for tutorials, video guides, and frequently asked questions.
@@ -35,4 +35,4 @@ For more detailed information about setting up and customizing the Prayag theme,
 The Prayag Multipurpose Shopify Theme offers a seamless and visually captivating experience for your online store. With its versatile features, customization options, and excellent support, Prayag is the perfect choice to elevate your e-commerce business. We hope you enjoy using Prayag and wish you great success in your online ventures!
 
 Best regards,
-The Prayag Team
+Prayag Patoliya
